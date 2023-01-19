@@ -1,0 +1,6 @@
+a.SELECT * from Employee
+WHERE empsal between 20000 and 45000;
+b.SELECT * from Employee WHERE empname LIKE 'T%';
+c.SELECT * from Department WHERE deploc = 'Chennai';
+d.SELECT * from Department WHERE deploc = 'Chennai' and 'hyderabad';
+e.SELECT * from Employee WHERE emploc NOT IN ('Chennai' , 'hyderabad');

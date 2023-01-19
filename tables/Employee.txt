@@ -1,0 +1,1 @@
+create tables Employee(empid int,empname Text,empsal Float,empdob date, emploc text);

@@ -1,0 +1,1 @@
+create table department(depid int, deptname text, deploc text);
